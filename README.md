@@ -19,7 +19,7 @@ Turbidity Sensor will produce measurements that will be uploaded to ThingSpeak v
 ## Fritzing Diagram
 
 ## Connected Hardware
-[Full Setup](https://github.com/JPerk00/MATLAB-Turbidity-Sensor/blob/master/Setup.png)
+![Full Setup](https://github.com/JPerk00/MATLAB-Turbidity-Sensor/blob/master/Setup.png)
 ## Arduino Code
 The [turb_sens_1_2.ino](turb_sens_1_2.ino) script was run in Arduino.
 ## MATLAB Code
