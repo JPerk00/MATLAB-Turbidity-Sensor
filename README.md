@@ -19,7 +19,9 @@ Turbidity Sensor will produce measurements that will be uploaded to ThingSpeak v
 
 ## Connected Hardware
 ## Arduino Code
+The [turb_sens_1_2.ino](turb_sens_1_2.ino) script was run in Arduino.
 ## MATLAB Code
+The [NTU_code_3_15.m](NTU_code_3_15.m) script was run in MATLAB.
 ## Results
 ## Future Work
 Future work for the turbidity sensor could involve integrating the temperature sensor to dial into a more accurate reading as there is a correlation between turbidity and temperature. Adding a wifi shield would be a helpful component as well and eliminate the need for a laptop to be present at the fish tank.  Turbidity effects the fish health, cleaner water produces healthier fertilization, healthier feritilization results in healthier plants, healthier plants results in better fruit production, and so forth.
