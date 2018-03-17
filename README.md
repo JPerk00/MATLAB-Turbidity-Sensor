@@ -17,7 +17,7 @@ Turbidity Sensor will produce measurements that will be uploaded to ThingSpeak v
 |3D-Print Boat Template|[Thingiverse](https://www.thingiverse.com/thing:1466370)|
 
 ## Fritzing Diagram
-
+![Fritzing Diagram](https://github.com/JPerk00/MATLAB-Turbidity-Sensor/blob/master/Fritzing_turbidity.png)
 ## Connected Hardware
 ![Full Setup](https://github.com/JPerk00/MATLAB-Turbidity-Sensor/blob/master/Setup.png)
 ## Arduino Code
