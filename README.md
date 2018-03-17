@@ -11,7 +11,7 @@ Turbidity Sensor will produce measurements that will be uploaded to ThingSpeak v
 |component|vendor|
 |---|---|
 |Arduino|[SparkFun RedBoard - Programmed with Arduino](https://www.sparkfun.com/products/13975)|
-|Turbidity Sensor|.[Gravity Analog Turbidity Sensor- Product No:SKUSEN0189](https://www.robotshop.com/en/gravity-analog- turbidity-sensor.html)|
+|Turbidity Sensor|[Gravity Analog Turbidity Sensor](https://www.robotshop.com/en/gravity-analog- turbidity-sensor.html)|
 |Jumper wires|[Jumper Wires Premium 6" M/M Pack of 10](https://www.sparkfun.com/products/8431 )|
 |Mini-B USB cable|[SparkFun USB Mini-B Cable - 6 Foot](https://www.sparkfun.com/products/11301)|
 
