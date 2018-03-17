@@ -14,6 +14,7 @@ Turbidity Sensor will produce measurements that will be uploaded to ThingSpeak v
 |Turbidity Sensor|[Gravity Analog Turbidity Sensor](https://www.robotshop.com/en/gravity-analog-turbidity-sensor.html)|
 |Jumper wires|[Jumper Wires Premium 6" M/M Pack of 10](https://www.sparkfun.com/products/8431 )|
 |Mini-B USB cable|[SparkFun USB Mini-B Cable - 6 Foot](https://www.sparkfun.com/products/11301)|
+|3D-Print Boat Template|[Thingiverse](https://www.thingiverse.com/thing:1466370)|
 
 ## Fritzing Diagram
 
